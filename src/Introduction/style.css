@@ -1,0 +1,12 @@
+*{
+    margin: 2px;
+    /* font-family: 'Ysabeau Office', sans-serif; */
+    font-family: 'Ysabeau Office', sans-serif;
+}
+#heading{
+    color: green;
+}
+#img{
+    width: 40%;
+    margin-top: 10px;
+}
